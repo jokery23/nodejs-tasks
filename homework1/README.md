@@ -18,12 +18,20 @@
     npm run task2
 ```
 
-## Task 3(ES6)
+## Task 1 (Babel)
 
 ```bash
-    npm run task1_v2
+    npm run task1:babel
 ```
 
+## Task 2 (Babel)
+
 ```bash
-    npm run task2_v2
+    npm run task2:babel
+```
+
+## Task 3 Build (Babel)
+
+```bash
+    npm run build:babel
 ```
